@@ -64,7 +64,6 @@ input = [1,2,3,4]
 input_data = recursion(input)
 
 output = input_data.SumofList()
-
 print("output >> ",output)
 
 count = input_data.ElementCountofList()
